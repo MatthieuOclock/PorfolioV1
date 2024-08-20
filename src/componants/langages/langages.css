@@ -1,0 +1,25 @@
+.content_langage { 
+    display: flex;
+    flex-direction: row;
+    gap: 1rem; 
+}
+
+.title_langage { 
+    
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.content_box { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.2rem;
+    margin: 1rem;
+}

@@ -1,7 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.projets { 
+    margin: 1rem;
+}
+
 .title_projets { 
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.title_projets h2 { 
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
 }
 
 .content_projets { 
@@ -20,6 +33,17 @@
     box-shadow: 5px 2.5px 2.5px rgb(0,0,0,0.25);
 }
 
+.projet h3 { 
+    font-weight: 600;
+}
+
+.content_projet {  
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
 .langages_projets {  
     display: flex;
     flex-direction: row; 
@@ -32,5 +56,9 @@
     border: 2px solid black;
     border-radius: 30px;
     box-shadow: 5px 2.5px 2.5px rgb(0,0,0,0.25);
+
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
 }
 
