@@ -1,10 +1,13 @@
 import React from "react";
+import './competence.css'; 
 
 function Competence() { 
     return (
         <div className="competence">
-            <hi>Compétences</hi>
-            <ul>
+            <div className="title_competences">
+                <h1>Compétences</h1>
+            </div>
+            <ul className="liste_competences">
                 <li>Pyhton</li>
                 <li>React</li>
                 <li>Html</li>

@@ -1,0 +1,12 @@
+.content {  
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem; 
+}
+
+.title_name { 
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

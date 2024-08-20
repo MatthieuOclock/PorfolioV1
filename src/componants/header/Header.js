@@ -1,19 +1,23 @@
 import React from "react";
+import './header.css'; 
 
 function Header() { 
     return(
-        <div className="banner">
+        <div class="banner">
             <header>
-                <h1>Matthieu</h1>
-                <h2>ME-HONG-SHIT-LI</h2>
+                <div class="name">
+                    <h1>Matthieu</h1>
+                    <h2 class="nom">ME-HONG-SHIT-LI</h2>    
+                </div>
                 <nav>
-                    <ul>
+                    <ul class="navigation">
                         <li>Information</li>
                         <li>Compétences</li>
                         <li>Formation</li>
                         <li>Projets</li>
                         <li>Expérience Professionnelle</li>
                         <li>Langues</li>
+                        <li>Intéréts</li>
                     </ul>
                 </nav>
             </header>
