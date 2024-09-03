@@ -8,10 +8,11 @@ function Formations() {
                 <h2>Formations</h2>
             </div>
             <div className="content_formations">
-            <div className="timeline complete">
+                <div className="timeline complete">
                     <div class="timeline-status"></div>
                     <div class="timeline-content">
-                        <h3>2018-2021</h3>
+                        <h3>Université de la Réunion</h3>
+                        <p>2018-2021</p>
                         <p>Licence en Electronique, Electrotechnique et Automatique</p>
                     </div>
                 </div>
