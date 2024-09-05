@@ -3,6 +3,7 @@ import './header.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Accueil from "../../Accueil";
 import CV from "../../CV";
+import Projets from "../../Projets"; 
 
 function Header() { 
     return(
@@ -19,13 +20,14 @@ function Header() {
                         <ul class="navigation">
                             <li><Link to="/" class="page">Acceuil</Link></li>
                             <li><Link to="/cv" class="page">CV</Link></li>
-                            <li><Link to="./projet" class="page">Projets</Link></li>
+                            <li><Link to="/projets" class="page">Projets</Link></li>
                         </ul>
                     </nav>
                 </header>
                 <Routes>
                     <Route path="/" element={<Accueil />} />
                     <Route path="/cv" element={<CV />} />
+                    <Route path="/projets" element={<Projets />} />
                 </Routes>
             </Router>
         </div>
