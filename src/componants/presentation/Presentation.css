@@ -71,9 +71,8 @@
     text-decoration: none;
 }
 
-/*
 @media only screen and (max-width: 740px) {
-    .content_projets { 
+    .content_presentatons { 
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -81,14 +80,13 @@
 }
 
 @media only screen and (max-width: 665px) { 
-    .projet { 
+    .presentaton { 
         width: 60%;
     }
 }
 
 @media only screen and (max-width: 500px) { 
-    .projet { 
+    .presentaton { 
         width: 100%;
     }
 }
-*/

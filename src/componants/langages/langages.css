@@ -23,3 +23,10 @@
     gap: 0.2rem;
     margin: 1rem;
 }
+
+@media only screen and (max-width: 750px) {
+    .content_langage { 
+        flex-direction: column;
+        gap: 0rem; 
+    }
+}

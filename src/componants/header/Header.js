@@ -18,9 +18,9 @@ function Header() {
                     </Link>
                     <nav>
                         <ul class="navigation">
-                            <li><Link to="/" class="page">Acceuil</Link></li>
-                            <li><Link to="/cv" class="page">CV</Link></li>
-                            <li><Link to="/projets" class="page">Projets</Link></li>
+                            <Link to="/" class="page"><li>Acceuil</li></Link>
+                            <Link to="/cv" class="page"><li>CV</li></Link>
+                            <Link to="/projets" class="page"><li>Projets</li></Link>
                         </ul>
                     </nav>
                 </header>

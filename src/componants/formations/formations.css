@@ -41,6 +41,7 @@
     width: 46px;
     border-radius: 50%;
     background-color: #1DBF73;
+    flex-shrink: 0;
 }
 
 .timeline:not(.complete) .timeline-status {
@@ -53,6 +54,7 @@
 }
   
 .timeline-content h3 {
+    display: inline-block;
     border: 2px solid black;
     padding: 5px 10px;
     border-radius: 5px;
