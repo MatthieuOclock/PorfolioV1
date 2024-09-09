@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.e55fd13e.js",
-    "index.html": "/index.html",
-    "main.e55fd13e.js.map": "/static/js/main.e55fd13e.js.map"
+    "main.css": "/PorfolioV1/static/css/main.26cbb84e.css",
+    "main.js": "/PorfolioV1/static/js/main.949fb705.js",
+    "static/media/Ocaml_icon.png": "/PorfolioV1/static/media/Ocaml_icon.63cc2741465c9c82290f.png",
+    "static/media/Progresql_icon.png": "/PorfolioV1/static/media/Progresql_icon.15e745ff0510b764cf6c.png",
+    "static/media/royaume-uni.png": "/PorfolioV1/static/media/royaume-uni.789ff1da7dc0b7ff0220.png",
+    "static/media/Pyhton_icon.png": "/PorfolioV1/static/media/Pyhton_icon.af768e1b34696e95332c.png",
+    "static/media/Shell_icon.png": "/PorfolioV1/static/media/Shell_icon.9bd0f00ac7dee6a93973.png",
+    "static/media/Php_icon.png": "/PorfolioV1/static/media/Php_icon.47093b0b230efa5c51e1.png",
+    "index.html": "/PorfolioV1/index.html",
+    "main.26cbb84e.css.map": "/PorfolioV1/static/css/main.26cbb84e.css.map",
+    "main.949fb705.js.map": "/PorfolioV1/static/js/main.949fb705.js.map"
   },
   "entrypoints": [
-    "static/js/main.e55fd13e.js"
+    "static/css/main.26cbb84e.css",
+    "static/js/main.949fb705.js"
   ]
 }
