@@ -16,8 +16,8 @@ import Shell_icon from './logo/Shell_icon.png';
 
 function Competence() { 
     return (
-        <div className="competence">
-            <div className="title_competences">
+        <div class="competence">
+            <div class="title_competences">
                 <h1>Compétences</h1>
             </div>
             <ul className="liste_competences">

@@ -6,10 +6,6 @@ function Info(){
     return(
         <div>
             <div class="content">
-                <div class="title_name">
-                    <h1>Matthieu</h1>
-                    <h2>ME-HONG-SHIT-LI</h2>    
-                </div>
                 <div>
                     <p>
                         Jeune développeur web full-stack passionné, titulaire d'une bi-lience en informatique et en 

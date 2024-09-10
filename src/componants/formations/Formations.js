@@ -3,12 +3,12 @@ import './formations.css';
 
 function Formations() { 
     return(
-        <div className="formations">
-            <div className="title_formations">
+        <div class="formations">
+            <div class="title_formations">
                 <h2>Formations</h2>
             </div>
-            <div className="content_formations">
-                <div className="timeline complete">
+            <div class="content_formations">
+                <div class="timeline complete">
                     <div class="timeline-status"></div>
                     <div class="timeline-content">
                         <h3>Université de la Réunion</h3>
@@ -16,7 +16,7 @@ function Formations() {
                         <p>Licence en Electronique, Electrotechnique et Automatique</p>
                     </div>
                 </div>
-                <div className="timeline complete">
+                <div class="timeline complete">
                     <div class="timeline-status"></div>
                     <div class="timeline-content">
                         <h3>Université Côte d'Azur</h3>
@@ -24,7 +24,7 @@ function Formations() {
                         <p>Licence en informatique</p>
                     </div>
                 </div>
-                <div className="timeline">
+                <div class="timeline">
                     <div class="timeline-status"></div>
                     <div class="timeline-content">
                         <h3>O'clock</h3>
