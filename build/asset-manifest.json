@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PorfolioV1/static/css/main.50d239f8.css",
-    "main.js": "/PorfolioV1/static/js/main.d80ed676.js",
+    "main.css": "/PorfolioV1/static/css/main.78e8322a.css",
+    "main.js": "/PorfolioV1/static/js/main.5cbcd270.js",
     "static/media/Ocaml_icon.png": "/PorfolioV1/static/media/Ocaml_icon.63cc2741465c9c82290f.png",
     "static/media/Progresql_icon.png": "/PorfolioV1/static/media/Progresql_icon.15e745ff0510b764cf6c.png",
     "static/media/royaume-uni.png": "/PorfolioV1/static/media/royaume-uni.789ff1da7dc0b7ff0220.png",
@@ -9,11 +9,11 @@
     "static/media/Shell_icon.png": "/PorfolioV1/static/media/Shell_icon.9bd0f00ac7dee6a93973.png",
     "static/media/Php_icon.png": "/PorfolioV1/static/media/Php_icon.47093b0b230efa5c51e1.png",
     "index.html": "/PorfolioV1/index.html",
-    "main.50d239f8.css.map": "/PorfolioV1/static/css/main.50d239f8.css.map",
-    "main.d80ed676.js.map": "/PorfolioV1/static/js/main.d80ed676.js.map"
+    "main.78e8322a.css.map": "/PorfolioV1/static/css/main.78e8322a.css.map",
+    "main.5cbcd270.js.map": "/PorfolioV1/static/js/main.5cbcd270.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d239f8.css",
-    "static/js/main.d80ed676.js"
+    "static/css/main.78e8322a.css",
+    "static/js/main.5cbcd270.js"
   ]
 }
