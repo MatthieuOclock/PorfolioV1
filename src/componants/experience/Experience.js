@@ -5,7 +5,7 @@ function Experience() {
     return (
         <div class="experience_content">
             <div class="experience_title">
-                <h2>Experience Professionnel</h2>
+                <h2>Expérience Professionnelle</h2>
             </div>
             <div class="description">
                 <h3>Office de l'Eau, Île de la Réunion</h3>
